@@ -6,5 +6,5 @@
 - 🤔  I’m looking for help with data structures and algorithms!
 - 💬  Ask me about my travels!
 - 😍  I love to travel, hike, snowboard, and EAT! Please let me know if you know any good places....
-- ⚡  Fun fact: You can judge how tired I am by my English skills 😎
+- ⚡  Fun fact: I love beer and have once bathed in it 😎
 
