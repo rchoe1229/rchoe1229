@@ -1,6 +1,5 @@
 ### Hi there I'm Ryan 👋
 
-- 🔭  I’m currently working on a personal finance app to help everyone track their budgets! Long term I would hope to incorporate a roboadvisor with automated transaction retrieval!
 - 🔭  I am currenlty updating my personal website as well [Ryan Choe](ryanachoe.com)
 - 🌱  I’m currently learning Node and Python!
 - 👯  I’m looking to collaborate on any fun projects that nurture a jr developer!
