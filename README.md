@@ -1,6 +1,6 @@
 ### Hi there I'm Ryan 👋
 
-- 🔭  I am currenlty working on my personal website as well [Ryan Choe](ryanachoe.com)
+- 🔭  I am currenlty working on my personal website => [ryanachoe.com](ryanachoe.com)
 - 🌱  I’m currently learning Node and Python!
 - 👯  I’m looking to collaborate on any fun projects that nurture a jr developer!
 - 🤔  I’m looking for help with data structures and algorithms!
