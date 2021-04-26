@@ -14,7 +14,7 @@
 
 ***
 
-<h3 align="center">📫 How to reach me:</h3>
+<h3 align="center">📫 Let's Connect!</h3>
 <p align="center"><a href="https://ryanachoe.com">Personal Website</a></p>
 <p align="center"><a href="mailto:ryan.choe@outlook.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Email Icon" width="30" height="30" /></a> <a href="https://chowderchoe.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="Medium Logo" width="30" height="30" /></a> <a href="https://www.instagram.com/ryan_choe04/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram Logo" width="30" height="30" /></a></p>
 
