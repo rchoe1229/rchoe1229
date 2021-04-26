@@ -25,4 +25,5 @@
 - 😍  I love to travel, hike, snowboard, and EAT! Please let me know if you know any good places....
 - ⚡  Fun fact: I love beer and have once bathed in it 😎
 
+***
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rchoe1229&show_icons=true&theme=vue" alt="afrolambo"/></p>
