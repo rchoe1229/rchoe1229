@@ -19,7 +19,7 @@
 <p align="center"><a href="mailto:ryan.choe@outlook.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Email Icon" width="30" height="30" /></a> <a href="https://chowderchoe.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="Medium Logo" width="30" height="30" /></a> <a href="https://www.instagram.com/ryan_choe04/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram Logo" width="30" height="30" /></a></p>
 
 ***
-- 🌱  I’m currently expanding my knowledge of Python and Node
+- 🌱  I’m currently expanding my knowledge on Flutter and Java!
 - 👯  I’m looking to collaborate on any fun projects that nurture a jr developer!
 - 🤔  I’m looking for help with data structures and algorithms!
 - 😍  I love to travel, hike, snowboard, and EAT! Please let me know if you know any good places....
